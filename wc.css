@@ -1,0 +1,47 @@
+body{
+    background-color:#343536;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 4px;
+    font-size: 50px;
+}
+#main{
+    text-align: center;
+}
+#input{
+    margin: 8px;
+    width: 285px;
+    height: 35px;
+}
+#output{
+    visibility:hidden;
+}
+.output{
+    margin: auto;
+    width: 230px;
+    border-radius: 15px;
+    padding: 20px 50px;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 4px;
+    font-size: 25px;
+}
+.margin{
+    margin: 10px;
+}
+#grOutput{
+    background-color: royalblue;
+}
+#kgOutput{
+    background-color: rgb(154, 204, 79);
+}
+#ozOutput{
+    background-color: tomato;
+}
+.answer{
+    font-size: 14px;
+}
